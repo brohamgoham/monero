@@ -24,7 +24,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
   - [Using Tor](#using-tor)
   - [Pruning](#Pruning)
   - [Debugging](#Debugging)
-  - [Known issues](#known-issues)
+
 
 ## Development resources
 
