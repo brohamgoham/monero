@@ -99,7 +99,7 @@ int main(int argc, char* argv[])
   else
     mlog_set_log(std::string(std::to_string(log_level) + ",bcutil:INFO").c_str());
 
-  LOG_PRINT_L0("Starting...");
+  LOG_PRINT_L0("Starting Block utils...");
 
   std::string opt_data_dir = command_line::get_arg(vm, cryptonote::arg_data_dir);
   bool opt_testnet = command_line::get_arg(vm, cryptonote::arg_testnet_on);
